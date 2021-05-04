@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "ba_beer_rating_1"
